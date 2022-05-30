@@ -1,3 +1,3 @@
 # News-GUI
 Created a GUI to display Headlines using newsapi.org API
-![image](GUI_Image.JPG)
+![image](https://github.com/Monitkumar/News-GUI/blob/main/GUI%20_Image.JPG)
